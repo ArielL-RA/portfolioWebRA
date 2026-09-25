@@ -1,0 +1,95 @@
+* {
+	box-sizing: border-box;
+}
+
+body {
+	margin: 0;
+	font-family: Arial, sans-serif;
+}
+
+.introHeading {
+	text-align: center;
+	font-size: 2.5em;
+	margin-top: 20px;
+	color: #3E4B8E;
+}
+
+.menuBarIntro {
+	background-color: #3E4B8E;
+	overflow: hidden;
+
+	position: sticky;
+	top: 0;
+}
+
+
+.logo {
+	margin-right: auto;
+}
+
+.menuBar{
+
+}
+
+
+/* Menu Bar Styles */
+.menuBarList {
+	color: #A6BCC9;
+	display: flex;
+	position: sticky;
+	gap: 10px;
+	justify-content: space-between;
+	align-items: center;
+	word-spacing: 0px;
+
+	padding: 14px 16px;
+	font-size: 20px;
+	list-style-type: none;
+}
+
+.menuBarList img {
+	width: 50px;
+	height: auto;
+	
+}
+
+
+.menuBarList a:link {
+	color: #FFFFFF;
+}
+
+.menuBarList a:hover {
+	color: #FFFFFF;
+}
+
+.menuBarList a:visited {
+	color: #FFFFFF;
+}
+
+.menuBarList a:active {
+	color: #FFFFFF;
+}
+
+.about {
+
+}
+
+.experience {
+
+}
+
+.skils {
+
+}
+
+.portfolio {
+
+}
+
+.commissions {
+
+}
+
+.contact {
+
+}
